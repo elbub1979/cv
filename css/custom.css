@@ -1,0 +1,27 @@
+.container {
+  background-color: #0FA0CE;
+}
+.avatar {
+  width: 250px;
+  height: auto;
+  background-color: #0FA0CE;
+  border-radius: 20px;
+  background-color: #555555;
+}
+.avatar-image {
+  max-width: 100%;
+  height: auto;
+  max-height:100%
+}
+.center {
+  text-align: center;
+}
+.margin-0 {
+  margin-bottom: 0;
+}
+.margin-1 {
+  margin: 1rem 1rem 1rem 1rem;
+}
+.bold {
+  font-weight: bold;
+}
